@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noy0ur
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python basics
-- 📫 How to reach me at shameershaik1499@gmail.com
+- 📫 You can reach me at shameershaik1499@gmail.com
 
 <!---
 noy0ur/noy0ur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
